@@ -1,0 +1,8 @@
+[package]
+name = "bevy-hacking"
+version = "0.1.0"
+authors = ["Shea Newton <shnewto@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = { version = "0.5.0", features = ["dynamic"] }
