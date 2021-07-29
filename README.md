@@ -1,10 +1,10 @@
-# bevy-hacking
-poking at the bevy game engine
+# wanderball-bevy
+wander the map as a ball.
 
-## Running
+## Run it
 ```
 cargo run
 ```
-## Wandering
+## Wander
 ← ↑ ↓ →
 
